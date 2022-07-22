@@ -4,5 +4,6 @@
 
 ### After Training
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/77894804/180388304-ea001a33-a583-41bf-9c90-b95554591922.png)
+
 
